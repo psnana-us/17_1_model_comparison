@@ -1,5 +1,6 @@
 # 17_1_model_comparison
 
+
 # Bank Term Deposit Subscription Prediction
 
 ## Problem Statement
@@ -37,12 +38,9 @@ Financial institutions need to identify customers most likely to subscribe to a 
 - **Decision Tree** and **Random Forest** provide transparent rules and feature importances, useful for business heuristics.  
 - **KNN** remains competitive but is less scalable for large datasets.
 
-## Recommendations and Next Steps
-1. **Deploy XGBoost** (or SVM) for production scoring to maximize predictive performance.  
-2. Use **F1-score** and **Precision-Recall** curves for ongoing monitoring due to class imbalance.  
-3. Leverage **tree-based feature importances** and logistic regression coefficients to inform marketing strategies.  
-4. Implement an automated pipeline with **SMOTE**, **grid search**, **model monitoring**, and **periodic retraining**.
 
-## Jupyter Notebook
+## Jupyter Notebook Location
 All code, analysis, and visualizations are provided in the Jupyter Notebook:
+
+https://github.com/psnana-us/17_1_model_comparison/blob/main/final_deep_comprehensive_analysis.ipynb
 
